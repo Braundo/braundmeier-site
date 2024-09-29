@@ -1,9 +1,9 @@
 .md-header {
-    background: #4051b5 !important;
+    background: #E10098 !important;
 }
 
 .md-footer {
-    background: #4051b5 !important;
+    background: #E10098 !important;
 }
 
 .md-footer-meta {
@@ -11,12 +11,12 @@
 }
 
 .md-nav__link:hover {
-    color:#4051b5 !important;
+    color:#E10098 !important;
 }
 
 .md-nav__link--active {
     font-weight: bold;
-    color:#4051b5 !important;
+    color:#E10098 !important;
 }
 
 h1 {

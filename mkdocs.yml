@@ -1,31 +1,26 @@
-site_name: Kubernetes Guide
+site_name: GraphQL Guide
 site_url: https://www.k8s.guide
-site_description: "A comprehensive, easy-to-follow guide for Kubernetes"
+site_description: "A comprehensive, easy-to-follow guide for GraphQL"
 site_author: "Aaron Braundmeier"
 nav:
   - Home: index.md
-  - Overview: overview.md
-  - Local Setup: local-setup.md
-  - Pods: pods.md
-  - Namespaces: namespaces.md
-  - Deployments: deployments.md
-  - StatefulSets: statefulsets.md
-  - Operators: operators.md
-  - Kubernetes API: kubernetes-api.md
-  - Custom Resources: crd.md
-  - Services: services.md
-  - Networking: networking.md
-  - Ingress: ingress.md
-  - Storage: storage.md
-  - ConfigMaps & Secrets: configmaps-secrets.md
-  - Helm: helm.md
-  - Security: security.md
+  - Introduction: apollo_graphql_introduction.md
+  - Core Concepts: apollo_graphql_core_concepts.md
+  - Server Setup: apollo_server_setup_configuration.md
+  - Client Setup: apollo_client_setup_configuration.md
+  - Real-time Data: apollo_subscriptions_real_time_data.md
+  - Federation: apollo_federation_schema_stitching.md
+  - Client Caching: apollo_client_caching_state_management.md
+  - Error Handling: apollo_error_handling_debugging.md
+  - Security & Auth: apollo_security_authentication.md
+  - Performance: apollo_performance_optimization.md
+  - Best Practices: apollo_best_practices.md
   - About Me: about.md
 theme:
   name: material
   custom_dir: overrides
   logo: logo.png
-  favicon: logo.png
+  favicon: favicon.svg
   font:
     text: Ubuntu
     code: Fira Code
@@ -33,6 +28,7 @@ theme:
     - navigation.top
     - navigation.footer
     - navigation.tracking
+    - navigation.sections
     - palette.toggle
     - content.tooltips
     - content.code.copy
