@@ -42,4 +42,16 @@ h2 {
   body[data-md-color-scheme="slate"] .light-mode-image {
     display: none;
   }
+
+.grid.cards li {
+border-radius: 10px !important;
+overflow: hidden !important;
+align-items: center !important;
+}
+
+
+.grid img {
+    max-width: 35px; /* Adjust size as needed */
+    height: auto;
+  }
   

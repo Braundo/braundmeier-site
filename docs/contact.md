@@ -1,4 +1,4 @@
 ---
-icon: material/card-account-phone
+icon: material/email-outline
 ---
 
