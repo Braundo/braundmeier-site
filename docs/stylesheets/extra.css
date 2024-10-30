@@ -20,12 +20,10 @@
 }
 
 h1 {
-    font-style: bold !important;
-}
-
-h2 {
     font-weight: bold !important;
 }
+
+
 
 .dark-mode-image {
     display: none;
@@ -54,4 +52,59 @@ align-items: center !important;
     max-width: 35px; /* Adjust size as needed */
     height: auto;
   }
-  
+
+.kubernetes {
+  color: #326ce5;
+}
+
+.gcp {
+  color: #4285F4;
+}
+
+.docker {
+  color: #0db7ed;
+}
+
+.azure {
+  color: #008AD7;
+}
+
+.python {
+  color: #ffde57;
+}
+
+.shell {
+  color: #32a84a;
+}
+
+.sql {
+  color: #F29111;
+}
+
+.html {
+  color: #e34c26;
+}
+
+.graphql {
+  color: #f4447c
+}
+
+.css {
+  color: #264de4
+}
+
+.argo {
+  color: #de794f
+}
+
+.tf {
+  color: #8040C9
+}
+
+.gha {
+  color: #327cf8
+}
+
+.md-tabs {
+  background-color: #008975;
+}

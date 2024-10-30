@@ -1,4 +1,6 @@
 ---
-icon: material/certificate
+hide:
+  - navigation
+  - toc
 ---
 
