@@ -1,0 +1,135 @@
+.md-header {
+    background: #008975 !important;
+}
+
+.md-footer {
+    background: #008975 !important;
+}
+
+.md-footer-meta {
+    display: none;
+}
+
+.md-nav__link:hover {
+    color:#00BF9A !important;
+}
+
+.md-nav__link--active {
+    font-weight: bold;
+    color:#008975 !important;
+}
+
+h1 {
+    font-weight: bold !important;
+}
+
+
+
+.dark-mode-image {
+    display: none;
+  }
+  
+  .light-mode-image {
+    display: block;
+  }
+  
+  body[data-md-color-scheme="slate"] .dark-mode-image {
+    display: block;
+  }
+  
+  body[data-md-color-scheme="slate"] .light-mode-image {
+    display: none;
+  }
+
+.grid.cards li {
+border-radius: 10px !important;
+overflow: hidden !important;
+align-items: center !important;
+}
+
+
+.grid img {
+    max-width: 35px; /* Adjust size as needed */
+    height: auto;
+  }
+
+.kubernetes {
+  color: #326ce5;
+}
+
+.gcp {
+  color: #4285F4;
+}
+
+.docker {
+  color: #0db7ed;
+}
+
+.azure {
+  color: #008AD7;
+}
+
+.python {
+  color: #ffde57;
+}
+
+.shell {
+  color: #32a84a;
+}
+
+.sql {
+  color: #F29111;
+}
+
+.html {
+  color: #e34c26;
+}
+
+.graphql {
+  color: #f4447c
+}
+
+.css {
+  color: #264de4
+}
+
+.argo {
+  color: #de794f
+}
+
+.tf {
+  color: #8040C9
+}
+
+.gha {
+  color: #327cf8
+}
+
+.md-tabs {
+  background-color: #008975;
+}
+
+.green-icon {
+  color: #008975;
+}
+
+.custom-link {
+  color: #008975 !important; 
+  text-decoration: none;
+}
+.custom-link:hover {
+  color: #00a78e !important;
+  text-decoration: underline;
+}
+
+.md-button {
+  background-color: #008975 !important;
+  color: white !important;
+  border: 0px !important;
+}
+
+.md-button:hover {
+  background-color: #00a78e !important;
+  color: white !important;
+  border: 0px !important;
+}
