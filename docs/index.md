@@ -2,10 +2,13 @@
 hide:
   - navigation
   - toc
+title: About Me
 ---
 
 # About Me
-Placeholder information about myself.
+With over a decade in technology at companies such as Mastercard, VMware, Broadcom and CVS, I am passionate about building and leading high-performing teams that deliver innovative and scalable solutions for complex business problems.
+
+I've long been a Kubernetes fan and had the privilege of working hands-on in that space during my time within the Tanzu business unit at VMware. I'm also interested in all things containers, automation, and most recently - cybersecurity.
 
 
 <br><br>
@@ -46,3 +49,7 @@ Placeholder information about myself.
 - :simple-jenkins: __Jenkins__
 
 </div><br>
+
+---
+<br>
+[Download my resume](/docs/assets/aaron-braundmeier-resume.pdf){ .md-button }

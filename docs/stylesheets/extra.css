@@ -108,3 +108,28 @@ align-items: center !important;
 .md-tabs {
   background-color: #008975;
 }
+
+.green-icon {
+  color: #008975;
+}
+
+.custom-link {
+  color: #008975 !important; 
+  text-decoration: none;
+}
+.custom-link:hover {
+  color: #00a78e !important;
+  text-decoration: underline;
+}
+
+.md-button {
+  background-color: #008975 !important;
+  color: white !important;
+  border: 0px !important;
+}
+
+.md-button:hover {
+  background-color: #00a78e !important;
+  color: white !important;
+  border: 0px !important;
+}
