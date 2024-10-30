@@ -5,6 +5,7 @@ site_author: "Aaron Braundmeier"
 nav:
   - About Me: index.md
   - Certificates: certs.md
+  - Skills: skills.md
   - Resume: resume.md
   - Contact: contact.md
 theme:
@@ -30,9 +31,6 @@ theme:
     text: Ubuntu
     code: Fira Code
   features:
-    - navigation.top
-    - navigation.tracking
-    - navigation.sections
     - palette.toggle
     - content.tooltips
     - content.code.copy
