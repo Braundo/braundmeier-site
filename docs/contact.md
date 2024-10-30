@@ -1,4 +1,7 @@
 ---
-icon: material/email-outline
+hide:
+  - navigation
+  - toc
 ---
 
+Placeholder
