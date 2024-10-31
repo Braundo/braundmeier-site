@@ -71,5 +71,6 @@ plugins:
   - mermaid2
   - search
 extra_javascript:
+  - javascripts/extra.js
   - ./javascripts/extra.js
   - ./javascripts/adsense.js

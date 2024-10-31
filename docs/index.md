@@ -50,6 +50,24 @@ I've long been a Kubernetes fan and had the privilege of working hands-on in tha
 
 </div><br>
 
+## Cybersecurity
+<div class="grid cards" markdown>
+
+- :material-shield-link-variant:{ .gha } __Cyber Kill Chain__
+- :octicons-infinity-16:{ .argo } __DevSecOps__
+- :octicons-alert-16:{ .python } __Risk & Compliance__
+- :fontawesome-solid-bug-slash:{ .tf } __Vulnerability Management__
+- :material-account-lock:{ .docker } __Identity & Access Management__
+- :material-wall-fire:{ .html } __Perimeter Protection__
+- :fontawesome-solid-shield-virus:{ .shell } __Incident Response__
+
+</div><br>
+
 ---
 <br>
-[Download my resume](/docs/assets/aaron-braundmeier-resume.pdf){ .md-button }
+[Download my resume :material-download:](assets/aaron-braundmeier-resume.pdf){ .md-button }
+
+!!! warning
+    My resume is currently outdated! I will update it soon.
+  
+<br><br><br>

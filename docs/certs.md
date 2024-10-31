@@ -30,5 +30,5 @@ hide:
 <a href="https://www.credly.com/badges/6a7c2696-1b68-48fd-a535-f92f33d2807a/public_url" target="_blank">
     <img src="/images/dev-ops.png">
 </a>
-
+<br><br><br>
 </center>
