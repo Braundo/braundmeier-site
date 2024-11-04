@@ -1,9 +1,9 @@
 .md-header {
-    background: #008975 !important;
+    background: #3848b0 !important;
 }
 
 .md-footer {
-    background: #008975 !important;
+    background: #3848b0 !important;
 }
 
 .md-footer-meta {
@@ -11,12 +11,12 @@
 }
 
 .md-nav__link:hover {
-    color:#00BF9A !important;
+    color:#3848b0 !important;
 }
 
 .md-nav__link--active {
     font-weight: bold;
-    color:#008975 !important;
+    color:#3848b0 !important;
 }
 
 h1 {
@@ -106,30 +106,46 @@ align-items: center !important;
 }
 
 .md-tabs {
-  background-color: #008975;
+  background-color: #3848b0;
 }
 
 .green-icon {
-  color: #008975;
+  color: #3848b0;
 }
 
 .custom-link {
-  color: #008975 !important; 
+  color: #3848b0 !important; 
   text-decoration: none;
 }
 .custom-link:hover {
-  color: #00a78e !important;
+  color: #4e5cb4 !important;
   text-decoration: underline;
 }
 
 .md-button {
-  background-color: #008975 !important;
+  background-color: #3848b0 !important;
   color: white !important;
   border: 0px !important;
 }
 
 .md-button:hover {
-  background-color: #00a78e !important;
+  background-color: #4e5cb4 !important;
   color: white !important;
   border: 0px !important;
+}
+
+.md-ellipsis {
+  font-size: 30px !important;
+}
+
+.md-tabs__link {
+  font-size: 17px !important;
+}
+
+p {
+  font-size: 18px !important;
+}
+
+img {
+  width: 300px !important;
 }
