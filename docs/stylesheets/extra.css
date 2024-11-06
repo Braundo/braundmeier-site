@@ -155,3 +155,17 @@ img {
   height: auto;
 }
 
+.grid-small {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)) !important;
+  gap: 8px !important;
+}
+
+/* Styles for the second grid with smaller images */
+.grid-small img {
+  width: 100%;            /* Images will fill their container */
+  max-width: 100px !important;       /* Adjust as desired for small images */
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}

@@ -5,6 +5,8 @@ hide:
 ---
 <center>
 
+# Certificates
+
 <div class="grid cards" markdown>
 
 -   __Certified Kubernetes Administrator__
@@ -39,5 +41,25 @@ hide:
 </a>
 
 </div>
+<br><br><br>
 
+---
+
+# Google Cloud Badges
+
+<div class="grid cards grid-small" markdown>
+
+-   __Kubernetes in Google Cloud__
+
+    ---
+    <img src="/images/k8s-in-gcp.png">
+
+- 
+
+- 
+
+- 
+
+</div>
+<br><br><br>
 </center>
