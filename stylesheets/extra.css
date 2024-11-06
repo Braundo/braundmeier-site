@@ -149,3 +149,9 @@ p {
 img {
   width: 300px !important;
 }
+
+.md-typeset img {
+  max-width: 100% !important;
+  height: auto;
+}
+
