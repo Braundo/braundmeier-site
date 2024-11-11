@@ -164,7 +164,7 @@ img {
 /* Styles for the second grid with smaller images */
 .grid-small img {
   width: 100%;            /* Images will fill their container */
-  max-width: 100px !important;       /* Adjust as desired for small images */
+  max-width: 200px !important;       /* Adjust as desired for small images */
   height: auto;
   display: block;
   margin: 0 auto;
