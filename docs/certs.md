@@ -49,12 +49,9 @@ hide:
 
 <div class="grid cards grid-small" markdown>
 
--   __Kubernetes in Google Cloud__
+-     <img src="/images/k8s-in-gcp.png">
 
-    ---
-    <img src="/images/k8s-in-gcp.png">
-
-- 
+-     <img src="/images/ssd.png">
 
 - 
 
