@@ -50,10 +50,8 @@ hide:
 <div class="grid cards grid-small" markdown>
 
 -     <img src="/images/k8s-in-gcp.png">
-
 -     <img src="/images/ssd.png">
-
-- 
+-     <img src="/images/devops-in-gcp.png">
 
 - 
 
