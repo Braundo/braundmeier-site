@@ -46,15 +46,12 @@ hide:
 ---
 
 # Google Cloud Badges
-
-<div class="grid cards grid-small" markdown>
-
--     <img src="/images/k8s-in-gcp.png">
--     <img src="/images/ssd.png">
--     <img src="/images/devops-in-gcp.png">
-
-- 
-
+<div class="grid-container">
+    <div class="responsive-grid">
+        <img src="/images/k8s-in-gcp.png">
+        <img src="/images/ssd.png">
+        <img src="/images/devops-in-gcp.png">
+    </div>
 </div>
-<br><br><br>
 </center>
+<br><br><br>
