@@ -157,15 +157,48 @@ img {
 
 .grid-small {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)) !important;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)) !important;
   gap: 8px !important;
 }
 
 /* Styles for the second grid with smaller images */
 .grid-small img {
   width: 100%;            /* Images will fill their container */
-  max-width: 200px !important;       /* Adjust as desired for small images */
+  max-width: 250px !important;       /* Adjust as desired for small images */
   height: auto;
   display: block;
   margin: 0 auto;
+}
+
+/* Outer container to center the grid */
+.grid-container {
+  display: flex;
+  justify-content: center; /* Center grid horizontally */
+  align-items: start; /* Align grid to the top instead of centering vertically */
+  padding-top: 20px; /* Add padding as needed for spacing */
+}
+
+/* Inner responsive grid styling */
+.responsive-grid {
+  display: grid;
+  gap: 16px;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Create multiple columns */
+  max-width: 800px;       /* Constrain grid to a max width for better centering */
+  width: 100%;            /* Make sure grid takes full width up to max-width */
+  padding: 16px;
+}
+
+/* Image styling with border */
+.responsive-grid img {
+  width: 100%;             /* Make images responsive within their grid cells */
+  max-width: 250px;        /* Optional: Max width for images */
+  height: auto;            /* Maintain aspect ratio */
+  border-radius: 8px;      /* Optional: rounded corners */
+  border: 2px solid #b0b3b5;  /* Thin gray border */
+  transition: box-shadow 0.3s ease; /* Smooth transition for hover effect */
+}
+
+/* Hover effect */
+.responsive-grid img:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Subtle shadow on hover */
 }
