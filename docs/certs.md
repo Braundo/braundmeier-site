@@ -52,6 +52,7 @@ hide:
         <img src="/images/ssd.png">
         <img src="/images/devops-in-gcp.png">
         <img src="/images/cloud-sec-fund.png">
+        <img src="/images/tf-gcp.png">
     </div>
 </div>
 </center>
