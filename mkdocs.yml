@@ -37,6 +37,7 @@ theme:
     - content.code.select
 extra_css:
   - /stylesheets/extra.css
+  - /assets/fonts/fonts.css
 extra:
   generator: false
   analytics:

@@ -46,14 +46,53 @@ hide:
 ---
 
 # Google Cloud Badges
-<div class="grid-container">
-    <div class="responsive-grid">
-        <img src="/images/k8s-in-gcp.png">
-        <img src="/images/ssd.png">
-        <img src="/images/devops-in-gcp.png">
-        <img src="/images/cloud-sec-fund.png">
-        <img src="/images/tf-gcp.png">
+
+</center>
+
+<div class="custom-grid">
+
+    <div class="card">
+        <div class="google-cloud-title">
+            <span class="g">G</span><span class="o1">o</span><span class="o2">o</span><span class="g2">g</span><span class="l">l</span><span class="e">e</span> <span class="cloud-text">Cloud</span>
+        </div>
+        <strong>Manage Kubernetes in Google Cloud</strong>
+        <div class="badge-category">Hybrid & Multi-Cloud</div>
+        <div class="badge-level">SKILL BADGE · INTERMEDIATE</div>
+    </div>
+
+    <div class="card">
+        <div class="google-cloud-title">
+            <span class="g">G</span><span class="o1">o</span><span class="o2">o</span><span class="g2">g</span><span class="l">l</span><span class="e">e</span> <span class="cloud-text">Cloud</span>
+        </div>
+        <strong>Secure Software Delivery</strong>
+        <div class="badge-category">Security</div>
+        <div class="badge-level">SKILL BADGE · INTERMEDIATE</div>
+    </div>
+
+    <div class="card">
+        <div class="google-cloud-title">
+            <span class="g">G</span><span class="o1">o</span><span class="o2">o</span><span class="g2">g</span><span class="l">l</span><span class="e">e</span> <span class="cloud-text">Cloud</span>
+        </div>
+        <strong>Implement DevOps Workflows in Google Cloud</strong>
+        <div class="badge-category">Application Modernization</div>
+        <div class="badge-level">SKILL BADGE · INTERMEDIATE</div>
+    </div>
+
+    <div class="card">
+        <div class="google-cloud-title">
+            <span class="g">G</span><span class="o1">o</span><span class="o2">o</span><span class="g2">g</span><span class="l">l</span><span class="e">e</span> <span class="cloud-text">Cloud</span>
+        </div>
+        <strong>Implement Cloud Security Fundamentals on Google Cloud</strong>
+        <div class="badge-category">Security</div>
+        <div class="badge-level">SKILL BADGE · INTERMEDIATE</div>
+    </div>
+
+    <div class="card">
+        <div class="google-cloud-title">
+            <span class="g">G</span><span class="o1">o</span><span class="o2">o</span><span class="g2">g</span><span class="l">l</span><span class="e">e</span> <span class="cloud-text">Cloud</span>
+        </div>
+        <strong>Build Infrastructure with Terraform on Google Cloud</strong>
+        <div class="badge-category">Infrastructure Modernization</div>
+        <div class="badge-level">SKILL BADGE · INTERMEDIATE</div>
     </div>
 </div>
-</center>
-<br><br><br>

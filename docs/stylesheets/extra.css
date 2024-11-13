@@ -202,3 +202,102 @@ img {
 .responsive-grid img:hover {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Subtle shadow on hover */
 }
+
+
+/* OLD STUFF ABOVE */
+
+
+/* Custom grid styling */
+.custom-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Responsive columns */
+  gap: 20px;
+  padding: 20px;
+}
+
+/* Card styling */
+.card {
+  background-color: var(--md-default-bg-color); /* Background adheres to light/dark theme */
+  border: 1px solid #d1d5db; /* Light gray border for compatibility with light/dark mode */
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle initial shadow */
+  transition: box-shadow 0.3s ease, transform 0.3s ease; /* Smooth transition */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  position: relative;
+  color: inherit; /* Inherit text color from theme */
+  height: 100%; /* Ensure card takes full available height */
+  font-family: 'Product Sans', sans-serif; /* Use Product Sans for the entire card */
+}
+
+/* Hover effect */
+.card:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Stronger shadow on hover */
+  transform: translateY(-5px); /* Slight lift on hover */
+}
+
+/* "Google Cloud" Title Section Styling */
+.card .google-cloud-title {
+  display: flex;
+  align-items: center;
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+/* Individual color styling for "Google" letters */
+.card .google-cloud-title .g { color: #4285F4; } /* Blue */
+.card .google-cloud-title .o1 { color: #EA4335; } /* Red */
+.card .google-cloud-title .o2 { color: #FBBC05; } /* Yellow */
+.card .google-cloud-title .g2 { color: #4285F4; } /* Blue */
+.card .google-cloud-title .l { color: #34A853; } /* Green */
+.card .google-cloud-title .e { color: #EA4335; } /* Red */
+
+/* Styling for "Cloud" text */
+.card .google-cloud-title .cloud-text {
+  color: #8c8d8d; /* A subtle gray color for "Cloud" */
+  padding-left: 4px; /* Add space between "Google" and "Cloud" */
+}
+
+/* Title styling */
+.card > strong {
+  font-size: 1.2em;
+  color: #787878; /* Ensure title color adapts to theme */
+  margin-bottom: 10px;
+}
+
+/* Category and level styling */
+.badge-category {
+  font-size: 0.9em; /* Slightly smaller font size */
+  color: #8c8d8d; /* Ensure category color adapts to theme */
+  margin-top: auto; /* Push the category down towards the bottom divider */
+  margin-bottom: 5px; /* Small space above the divider */
+}
+
+.badge-level {
+  font-size: 0.7em; /* Make this text smaller */
+  color: #8c8d8d; /* Ensure level color adapts to theme */
+  border-top: 1px solid #d1d5db; /* Divider color compatible with light/dark */
+  padding-top: 5px;
+}
+
+/* Hard stop color strip at the bottom */
+.card::after {
+  content: "";
+  display: block;
+  height: 4px;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(to right, 
+    #EA4335 30%,    /* Red */
+    #4285F4 30% 70%, /* Blue */
+    #34A853 70% 80%, /* Green */
+    #FBBC05 80% 100% /* Yellow */
+  );
+  border-radius: 0 0 8px 8px; /* Match the card's rounded corners */
+}
