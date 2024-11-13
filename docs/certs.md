@@ -55,8 +55,17 @@ hide:
         <div class="google-cloud-title">
             <span class="g">G</span><span class="o1">o</span><span class="o2">o</span><span class="g2">g</span><span class="l">l</span><span class="e">e</span> <span class="cloud-text">Cloud</span>
         </div>
-        <strong>Manage Kubernetes in Google Cloud</strong>
-        <div class="badge-category">Hybrid & Multi-Cloud</div>
+        <strong>Build a Secure Google Cloud Network</strong>
+        <div class="badge-category">Security</div>
+        <div class="badge-level">SKILL BADGE · INTERMEDIATE</div>
+    </div>
+
+    <div class="card">
+        <div class="google-cloud-title">
+            <span class="g">G</span><span class="o1">o</span><span class="o2">o</span><span class="g2">g</span><span class="l">l</span><span class="e">e</span> <span class="cloud-text">Cloud</span>
+        </div>
+        <strong>Implement Cloud Security Fundamentals on Google Cloud</strong>
+        <div class="badge-category">Security</div>
         <div class="badge-level">SKILL BADGE · INTERMEDIATE</div>
     </div>
 
@@ -82,8 +91,8 @@ hide:
         <div class="google-cloud-title">
             <span class="g">G</span><span class="o1">o</span><span class="o2">o</span><span class="g2">g</span><span class="l">l</span><span class="e">e</span> <span class="cloud-text">Cloud</span>
         </div>
-        <strong>Implement Cloud Security Fundamentals on Google Cloud</strong>
-        <div class="badge-category">Security</div>
+        <strong>Manage Kubernetes in Google Cloud</strong>
+        <div class="badge-category">Hybrid & Multi-Cloud</div>
         <div class="badge-level">SKILL BADGE · INTERMEDIATE</div>
     </div>
 
@@ -95,4 +104,6 @@ hide:
         <div class="badge-category">Infrastructure Modernization</div>
         <div class="badge-level">SKILL BADGE · INTERMEDIATE</div>
     </div>
+
+
 </div>
