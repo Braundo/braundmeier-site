@@ -67,7 +67,5 @@ I've long been a Kubernetes fan and had the privilege of working hands-on in tha
 <br>
 [Download my resume :material-download:](assets/aaron-braundmeier-resume.pdf){ .md-button }
 
-!!! warning
-    My resume is currently outdated! I will update it soon.
-  
+
 <br><br><br>
