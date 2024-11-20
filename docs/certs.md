@@ -40,7 +40,7 @@ hide:
     ---
 
     <a href="https://www.apollographql.com/tutorials/certifications/b41c1f00-1708-47e2-b838-bc515c8751b8" target="_blank">
-    <img src="/images/apollo.svg">
+    <img src="/images/apollo.png">
 </a>
 <span class="issuer">Issuer: Apollo GraphQL</span>
 
