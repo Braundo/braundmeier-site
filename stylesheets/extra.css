@@ -41,17 +41,30 @@ h1 {
     display: none;
   }
 
-.grid.cards li {
-border-radius: 10px !important;
-overflow: hidden !important;
-align-items: center !important;
-}
-
-
-.grid img {
+  .grid.cards li {
+    border-radius: 10px !important;
+    overflow: hidden !important;
+    align-items: center !important;
+    display: flex; /* Make the card a flex container */
+    flex-direction: column; /* Stack items vertically */
+    justify-content: flex-start !important; /* Ensure content starts at the top */
+    height: 100%; /* Ensure cards take the full available height */
+  }
+  
+  .grid img {
     max-width: 35px; /* Adjust size as needed */
     height: auto;
+    margin-bottom: 16px;
   }
+  
+  .issuer {
+    font-style: italic; /* Italics */
+    font-size: 0.9em; /* Slightly smaller font size */
+    display: block; /* Ensures the text is on its own line */
+    margin-top: auto !important; /* Push the text to the bottom of the card */
+    text-align: center; /* Center-align the text */
+    font-weight: lighter;
+  }  
 
 .kubernetes {
   color: #326ce5;
@@ -300,9 +313,4 @@ img {
     #FBBC05 80% 100% /* Yellow */
   );
   border-radius: 0 0 9px 9px; /* Match the card's rounded corners */
-}
-
-.capa {
-  width: 240px !important;
-  margin-top: 25px !important;
 }
