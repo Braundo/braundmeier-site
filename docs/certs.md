@@ -16,6 +16,7 @@ hide:
     <a href="https://www.credly.com/badges/cc5e7ffa-b662-4de2-8e63-8f06e2098bc1/public_url" target="_blank">
     <img src="/images/cka.png">
 </a>
+<span class="issuer">Issuer: The Linux Foundation</span>
 
 -   __Certified Argo Project Associate__
 
@@ -23,6 +24,7 @@ hide:
    <a href="https://www.credly.com/badges/9ed2a14b-4dc7-4ce2-9890-9ee07f2bdf7f/public_url" target="_blank">
     <img src="/images/capa.png" class="capa">
 </a>
+<span class="issuer">Issuer: The Linux Foundation</span>
 
 -   __Google Cloud Cybersecurity__
 
@@ -31,6 +33,7 @@ hide:
     <a href="https://www.credly.com/badges/a6511996-1f8b-4065-ae50-035be87f9e6c/public_url" target="_blank">
     <img src="/images/gcp-sec.png">
 </a>
+<span class="issuer">Issuer: Google Cloud</span>
 
 -   __Apollo Graph Associate__
 
@@ -39,6 +42,7 @@ hide:
     <a href="https://www.apollographql.com/tutorials/certifications/b41c1f00-1708-47e2-b838-bc515c8751b8" target="_blank">
     <img src="/images/apollo.svg">
 </a>
+<span class="issuer">Issuer: Apollo GraphQL</span>
 
 </div>
 <br><br><br>
