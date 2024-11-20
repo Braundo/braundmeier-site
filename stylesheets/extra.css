@@ -288,16 +288,21 @@ img {
 .card::after {
   content: "";
   display: block;
-  height: 4px;
+  height: 5px;
   width: 100%;
   position: absolute;
-  bottom: 0;
-  left: 0;
+  bottom: -0.85px;
+  left: -0.9px;
   background: linear-gradient(to right, 
     #EA4335 30%,    /* Red */
     #4285F4 30% 70%, /* Blue */
     #34A853 70% 80%, /* Green */
     #FBBC05 80% 100% /* Yellow */
   );
-  border-radius: 0 0 8px 8px; /* Match the card's rounded corners */
+  border-radius: 0 0 9px 9px; /* Match the card's rounded corners */
+}
+
+.capa {
+  width: 240px !important;
+  margin-top: 25px !important;
 }
