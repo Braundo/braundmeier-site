@@ -86,6 +86,15 @@ hide:
         <div class="google-cloud-title">
             <span class="g">G</span><span class="o1">o</span><span class="o2">o</span><span class="g2">g</span><span class="l">l</span><span class="e">e</span> <span class="cloud-text">Cloud</span>
         </div>
+        <strong>Mitigate Threats and Vulnerabilities with Security Command Center</strong>
+        <div class="badge-category">Security</div>
+        <div class="badge-level">SKILL BADGE · INTERMEDIATE</div>
+    </div>
+
+    <div class="card">
+        <div class="google-cloud-title">
+            <span class="g">G</span><span class="o1">o</span><span class="o2">o</span><span class="g2">g</span><span class="l">l</span><span class="e">e</span> <span class="cloud-text">Cloud</span>
+        </div>
         <strong>Implement DevOps Workflows in Google Cloud</strong>
         <div class="badge-category">Application Modernization</div>
         <div class="badge-level">SKILL BADGE · INTERMEDIATE</div>
