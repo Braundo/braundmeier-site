@@ -35,6 +35,15 @@ hide:
 </a>
 <span class="issuer">Issuer: Google Cloud</span>
 
+-   __Python Developer__
+
+    ---
+
+    <a href="https://www.sololearn.com/en/certificates/CC-XOER3PQR" target="_blank">
+    <img src="/images/python-sololearn.png">
+</a>
+<span class="issuer">Issuer: Sololearn</span>
+
 -   __Apollo Graph Associate__
 
     ---
