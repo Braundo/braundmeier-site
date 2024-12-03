@@ -67,7 +67,7 @@ I've also recently created [k8s-scan](https://k8s-scan-io), a lightweight Kubern
 
 ---
 <br>
-[Download my resume :material-download:](assets/aaron-braundmeier-resume.pdf){ .md-button }
+[Download my resume :material-download:](assets/aaron_braundmeier_resume.pdf){ .md-button }
 
 
 <br><br><br>
