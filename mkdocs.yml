@@ -5,6 +5,7 @@ site_author: "Aaron Braundmeier"
 nav:
   - About Me: index.md
   - Certificates: certs.md
+  - Projects: projects.md
   - Contact: contact.md
 theme:
   palette:
