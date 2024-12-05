@@ -6,12 +6,12 @@ hide:
 <center>
 <div class="grid cards" markdown>
 
--   __k8s-scan__
+-   __kube-scan__
 
     ---
 
-    <a href="https://k8s-scan.io" target="_blank">
-    <img src="/images/k8s-scan-logo.png" style="width: 60% !important; padding-top: 10px !important; padding-bottom: 25px !important;"></a>
+    <a href="https://kube-scan.io" target="_blank">
+    <img src="/images/k8s-scan-logo-tm.png" style="width: 60% !important; padding-top: 10px !important; padding-bottom: 25px !important;"></a>
 
     A lightweight penetration testing suite for Kubernetes.
 

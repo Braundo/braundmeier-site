@@ -10,7 +10,7 @@ With over a decade in technology at companies such as Mastercard, VMware, Broadc
 
 I've long been a Kubernetes fan and had the privilege of working hands-on in that space during my time within the Tanzu business unit at VMware. I'm also interested in all things containers, automation, and most recently - cybersecurity.
 
-I've also recently created [k8s-scan](https://k8s-scan-io), a lightweight Kubernetes penetration testing tool.
+I've also recently created [kube-scan](https://kube-scan-io), a lightweight Kubernetes penetration testing tool.
 
 
 <br><br>
