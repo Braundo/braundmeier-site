@@ -18,6 +18,15 @@ hide:
 </a>
 <span class="issuer">Issuer: The Linux Foundation</span>
 
+-   __Kubernetes and Cloud Security Associate__
+
+    ---
+
+    <a href="https://www.credly.com/badges/59a4a303-bc31-41c6-bc9f-fbc2da719f39/public_url" target="_blank">
+    <img src="/images/kcsa.png">
+</a>
+<span class="issuer">Issuer: The Linux Foundation</span>
+
 -   __Certified Argo Project Associate__
 
     ---
