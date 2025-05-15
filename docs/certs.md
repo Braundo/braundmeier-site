@@ -42,7 +42,7 @@ hide:
    <a href="https://www.credly.com/badges/6ca18c54-d86b-4ac7-968f-e80cc0091377/public_url" target="_blank">
     <img src="/images/aws-cloud-practitioner.png" height="200">
 </a>
-<span class="issuer">Issuer: The Linux Foundation</span>
+<span class="issuer">Issuer: Amazon Web Services</span>
 
 -   __Certified Argo Project Associate__
 
