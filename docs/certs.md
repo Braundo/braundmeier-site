@@ -68,7 +68,7 @@ hide:
     <a href="https://learn.microsoft.com/en-us/users/aaronbraundmeier-3242/credentials/2087fdfa004ca072" target="_blank">
     <img src="/images/az900.png">
 </a>
-<span class="issuer">Issuer: Microsoft</span>
+<span class="issuer">Issuer: Microsoft Azure</span>
 
 -   __Python Developer__
 
