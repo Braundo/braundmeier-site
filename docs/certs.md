@@ -36,14 +36,6 @@ hide:
 </a>
 <span class="issuer">Issuer: The Linux Foundation</span>
 
--   __AWS Certified Cloud Practitioner__
-
-    ---
-   <a href="https://www.credly.com/badges/6ca18c54-d86b-4ac7-968f-e80cc0091377/public_url" target="_blank">
-    <img src="/images/aws-cloud-practitioner.png" height="200">
-</a>
-<span class="issuer">Issuer: Amazon Web Services</span>
-
 -   __Certified Argo Project Associate__
 
     ---
@@ -51,6 +43,14 @@ hide:
     <img src="/images/capa.png" class="capa">
 </a>
 <span class="issuer">Issuer: The Linux Foundation</span>
+
+-   __AWS Certified Cloud Practitioner__
+
+    ---
+   <a href="https://www.credly.com/badges/6ca18c54-d86b-4ac7-968f-e80cc0091377/public_url" target="_blank">
+    <img src="/images/aws-cloud-practitioner.png" height="200">
+</a>
+<span class="issuer">Issuer: Amazon Web Services</span>
 
 -   __Google Cloud Cybersecurity__
 
@@ -60,6 +60,15 @@ hide:
     <img src="/images/gcp-sec.png">
 </a>
 <span class="issuer">Issuer: Google Cloud</span>
+
+-   __Azure Fundamentals__
+
+    ---
+
+    <a href="https://learn.microsoft.com/en-us/users/aaronbraundmeier-3242/credentials/2087fdfa004ca072" target="_blank">
+    <img src="/images/az900.png">
+</a>
+<span class="issuer">Issuer: Microsoft</span>
 
 -   __Python Developer__
 
