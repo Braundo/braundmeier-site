@@ -19,36 +19,36 @@ I've also recently created [kube-scan](https://kube-scan-io), a lightweight Kube
 ## Platforms
 <div class="grid cards" markdown>
 
-- :simple-kubernetes:{ .kubernetes } __Kubernetes__
+- :simpleicons-kubernetes:{ .kubernetes } __Kubernetes__
 - :material-google-cloud:{ .gcp } __Google Cloud__
-- :simple-linux: __Linux__
-- :simple-docker:{ .docker } __Docker__
+- :simpleicons-linux: __Linux__
+- :simpleicons-docker:{ .docker } __Docker__
 - :material-microsoft-azure:{ .azure } __Azure__
-- :simple-apollographql: __Apollo__
+- :simpleicons-apollographql: __Apollo__
 
 </div><br>
 
 ## Scripting / Development
 <div class="grid cards" markdown>
 
-- :simple-python:{ .python } __Python__
+- :simpleicons-python:{ .python } __Python__
 - :octicons-terminal-16:{ .shell } __Shell__
 - :material-database:{ .sql } __SQL__
-- :simple-html5:{ .html } __HTML__
-- :simple-yaml: __YAML__
-- :simple-graphql:{ .graphql } __GraphQL__
-- :simple-css3:{ .css } __CSS__
-- :simple-markdown: __Markdown__
+- :simpleicons-html5:{ .html } __HTML__
+- :simpleicons-yaml: __YAML__
+- :simpleicons-graphql:{ .graphql } __GraphQL__
+- :simpleicons-css3:{ .css } __CSS__
+- :simpleicons-markdown: __Markdown__
 
 </div><br>
 
 ## IaC / Automation / CI-CD
 <div class="grid cards" markdown>
 
-- :simple-argo:{ .argo } __Argo CD__
-- :simple-terraform:{ .tf } __Terraform__
-- :simple-githubactions:{ .gha } __GitHub Actions__
-- :simple-jenkins: __Jenkins__
+- :simpleicons-argo:{ .argo } __Argo CD__
+- :simpleicons-terraform:{ .tf } __Terraform__
+- :simpleicons-githubactions:{ .gha } __GitHub Actions__
+- :simpleicons-jenkins: __Jenkins__
 
 </div><br>
 

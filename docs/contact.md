@@ -38,7 +38,7 @@ hide:
 
 <br>
 
-## :simple-signal: <a href="https://signal.me/#eu/HHzMGLMmlrqlMnU9t6mSli25CbHgMbgvE-cyNPdi5bH4sv7FR1fRJ-LpmMzP09BLC" class="custom-link" target="_blank">Signal</a>
+## :simpleicons-signal: <a href="https://signal.me/#eu/HHzMGLMmlrqlMnU9t6mSli25CbHgMbgvE-cyNPdi5bH4sv7FR1fRJ-LpmMzP09BLC" class="custom-link" target="_blank">Signal</a>
 
 <br><br><br>
 </center>
