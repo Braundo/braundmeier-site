@@ -9,6 +9,15 @@ hide:
 
 <div class="grid cards" markdown>
 
+-   __Certified Kubernetes Application Developer__
+
+    ---
+
+    <a href="https://www.credly.com/badges/63110596-678d-4691-847b-18756f024185/public_url" target="_blank">
+    <img src="/images/ckad.png">
+</a>
+<span class="issuer">Issuer: The Linux Foundation</span>
+
 -   __Certified Kubernetes Administrator__
 
     ---
