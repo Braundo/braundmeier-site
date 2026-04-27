@@ -10,8 +10,6 @@ With over a decade in technology at companies such as Mastercard, VMware, Broadc
 
 I've long been a Kubernetes fan and had the privilege of working hands-on in that space during my time within the Tanzu business unit at VMware. I'm also interested in all things containers, automation, and most recently - cybersecurity.
 
-I've also recently created [kube-scan](https://kube-scan-io), a lightweight Kubernetes penetration testing tool.
-
 
 <br><br>
 
@@ -25,7 +23,6 @@ I've also recently created [kube-scan](https://kube-scan-io), a lightweight Kube
 - :simple-googlecloud: __Google Cloud__
 - :simple-linux: __Linux__
 - :simple-docker: __Docker__
-- :simple-apollographql: __Apollo__
 
 </div><br>
 
@@ -34,12 +31,10 @@ I've also recently created [kube-scan](https://kube-scan-io), a lightweight Kube
 
 - :simple-python: __Python__
 - :lucide-terminal: __Shell__
-- :lucide-database: __SQL__
 - :simple-html5: __HTML__
 - :simple-yaml: __YAML__
 - :simple-graphql: __GraphQL__
 - :simple-css: __CSS__
-- :simple-markdown: __Markdown__
 
 </div><br>
 
@@ -56,7 +51,6 @@ I've also recently created [kube-scan](https://kube-scan-io), a lightweight Kube
 ## Cybersecurity
 <div class="grid cards" markdown>
 
-- :lucide-shield: __Cyber Kill Chain__
 - :lucide-infinity: __DevSecOps__
 - :lucide-alert-triangle: __Risk & Compliance__
 - :lucide-bug-off: __Vulnerability Management__

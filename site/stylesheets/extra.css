@@ -1,15 +1,19 @@
-/* Replace neon #00c753 with a modern muted green */
+/* Softer green — Tailwind green-400, less vivid than green-500 */
 [data-md-color-accent=green] {
-  --md-accent-fg-color: #22c55e;
-  --md-accent-fg-color--transparent: #22c55e1a;
+  --md-accent-fg-color: #4ade80;
+  --md-accent-fg-color--transparent: #4ade801a;
 }
 
-/* Active tab underline — overrides var(--md-default-fg-color) from the theme */
+/* Active tab: green text and green underline */
+.md-tabs__item--active .md-tabs__link {
+  color: var(--md-accent-fg-color);
+}
+
 .md-tabs__item--active {
   border-bottom-color: var(--md-accent-fg-color);
 }
 
-/* Inline icons (both Lucide stroke=currentColor and Simple fill=currentColor) */
+/* Inline icons (Lucide stroke=currentColor, Simple fill=currentColor) */
 .twemoji {
   color: var(--md-accent-fg-color);
 }
@@ -21,4 +25,11 @@
   object-fit: contain;
   display: block;
   margin: 8px auto;
+  transition: transform 0.2s ease, filter 0.2s ease;
+}
+
+/* Cert hover: subtle lift and soft shadow */
+.cert-badges a:hover img {
+  transform: translateY(-4px) scale(1.05);
+  filter: drop-shadow(0 6px 16px rgba(0, 0, 0, 0.18));
 }
