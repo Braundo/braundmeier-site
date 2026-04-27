@@ -69,34 +69,3 @@ hide:
 
 </center>
 
-<div class="grid cards" markdown>
-
--   __Google Cloud — Build a Secure Google Cloud Network__
-
-    Security · Skill Badge · Intermediate
-
--   __Google Cloud — Implement Cloud Security Fundamentals on Google Cloud__
-
-    Security · Skill Badge · Intermediate
-
--   __Google Cloud — Secure Software Delivery__
-
-    Security · Skill Badge · Intermediate
-
--   __Google Cloud — Mitigate Threats and Vulnerabilities with Security Command Center__
-
-    Security · Skill Badge · Intermediate
-
--   __Google Cloud — Implement DevOps Workflows in Google Cloud__
-
-    Application Modernization · Skill Badge · Intermediate
-
--   __Google Cloud — Manage Kubernetes in Google Cloud__
-
-    Hybrid & Multi-Cloud · Skill Badge · Intermediate
-
--   __Google Cloud — Build Infrastructure with Terraform on Google Cloud__
-
-    Infrastructure Modernization · Skill Badge · Intermediate
-
-</div>
