@@ -19,49 +19,49 @@ I've also recently created [kube-scan](https://kube-scan-io), a lightweight Kube
 ## Platforms
 <div class="grid cards" markdown>
 
-- :simpleicons-kubernetes:{ .kubernetes } __Kubernetes__
-- :material-google-cloud:{ .gcp } __Google Cloud__
-- :simpleicons-linux: __Linux__
-- :simpleicons-docker:{ .docker } __Docker__
-- :material-microsoft-azure:{ .azure } __Azure__
-- :simpleicons-apollographql: __Apollo__
+- :simple-kubernetes: __Kubernetes__
+- :material-google-cloud: __Google Cloud__
+- :simple-linux: __Linux__
+- :simple-docker: __Docker__
+- :material-microsoft-azure: __Azure__
+- :simple-apollographql: __Apollo__
 
 </div><br>
 
 ## Scripting / Development
 <div class="grid cards" markdown>
 
-- :simpleicons-python:{ .python } __Python__
-- :octicons-terminal-16:{ .shell } __Shell__
-- :material-database:{ .sql } __SQL__
-- :simpleicons-html5:{ .html } __HTML__
-- :simpleicons-yaml: __YAML__
-- :simpleicons-graphql:{ .graphql } __GraphQL__
-- :simpleicons-css3:{ .css } __CSS__
-- :simpleicons-markdown: __Markdown__
+- :simple-python: __Python__
+- :octicons-terminal-16: __Shell__
+- :material-database: __SQL__
+- :simple-html5: __HTML__
+- :simple-yaml: __YAML__
+- :simple-graphql: __GraphQL__
+- :simple-css: __CSS__
+- :simple-markdown: __Markdown__
 
 </div><br>
 
 ## IaC / Automation / CI-CD
 <div class="grid cards" markdown>
 
-- :simpleicons-argo:{ .argo } __Argo CD__
-- :simpleicons-terraform:{ .tf } __Terraform__
-- :simpleicons-githubactions:{ .gha } __GitHub Actions__
-- :simpleicons-jenkins: __Jenkins__
+- :simple-argo: __Argo CD__
+- :simple-terraform: __Terraform__
+- :simple-githubactions: __GitHub Actions__
+- :simple-jenkins: __Jenkins__
 
 </div><br>
 
 ## Cybersecurity
 <div class="grid cards" markdown>
 
-- :material-shield-link-variant:{ .gha } __Cyber Kill Chain__
-- :octicons-infinity-16:{ .argo } __DevSecOps__
-- :octicons-alert-16:{ .python } __Risk & Compliance__
-- :fontawesome-solid-bug-slash:{ .tf } __Vulnerability Management__
-- :material-account-lock:{ .docker } __Identity & Access Management__
-- :material-wall-fire:{ .html } __Perimeter Protection__
-- :fontawesome-solid-shield-virus:{ .shell } __Incident Response__
+- :material-shield-link-variant: __Cyber Kill Chain__
+- :octicons-infinity-16: __DevSecOps__
+- :octicons-alert-16: __Risk & Compliance__
+- :fontawesome-solid-bug-slash: __Vulnerability Management__
+- :material-account-lock: __Identity & Access Management__
+- :material-wall-fire: __Perimeter Protection__
+- :fontawesome-solid-shield-virus: __Incident Response__
 
 </div><br>
 

@@ -6,7 +6,7 @@ hide:
 <center>
 
 
-<div class="grid cards" markdown>
+<div class="grid cards cert-badges" markdown>
 
     <a href="https://www.credly.com/badges/63110596-678d-4691-847b-18756f024185/public_url" target="_blank">
     <img src="/images/ckad.png">
@@ -33,7 +33,7 @@ hide:
 
 
    <a href="https://www.credly.com/badges/9ed2a14b-4dc7-4ce2-9890-9ee07f2bdf7f/public_url" target="_blank">
-    <img src="/images/capa.png" class="capa">
+    <img src="/images/capa.png">
 </a>
 
 
@@ -69,70 +69,34 @@ hide:
 
 </center>
 
-<div class="custom-grid">
+<div class="grid cards" markdown>
 
-    <div class="card">
-        <div class="google-cloud-title">
-            <span class="g">G</span><span class="o1">o</span><span class="o2">o</span><span class="g2">g</span><span class="l">l</span><span class="e">e</span> <span class="cloud-text">Cloud</span>
-        </div>
-        <strong>Build a Secure Google Cloud Network</strong>
-        <div class="badge-category">Security</div>
-        <div class="badge-level">SKILL BADGE · INTERMEDIATE</div>
-    </div>
+-   __Google Cloud — Build a Secure Google Cloud Network__
 
-    <div class="card">
-        <div class="google-cloud-title">
-            <span class="g">G</span><span class="o1">o</span><span class="o2">o</span><span class="g2">g</span><span class="l">l</span><span class="e">e</span> <span class="cloud-text">Cloud</span>
-        </div>
-        <strong>Implement Cloud Security Fundamentals on Google Cloud</strong>
-        <div class="badge-category">Security</div>
-        <div class="badge-level">SKILL BADGE · INTERMEDIATE</div>
-    </div>
+    Security · Skill Badge · Intermediate
 
-    <div class="card">
-        <div class="google-cloud-title">
-            <span class="g">G</span><span class="o1">o</span><span class="o2">o</span><span class="g2">g</span><span class="l">l</span><span class="e">e</span> <span class="cloud-text">Cloud</span>
-        </div>
-        <strong>Secure Software Delivery</strong>
-        <div class="badge-category">Security</div>
-        <div class="badge-level">SKILL BADGE · INTERMEDIATE</div>
-    </div>
+-   __Google Cloud — Implement Cloud Security Fundamentals on Google Cloud__
 
-    <div class="card">
-        <div class="google-cloud-title">
-            <span class="g">G</span><span class="o1">o</span><span class="o2">o</span><span class="g2">g</span><span class="l">l</span><span class="e">e</span> <span class="cloud-text">Cloud</span>
-        </div>
-        <strong>Mitigate Threats and Vulnerabilities with Security Command Center</strong>
-        <div class="badge-category">Security</div>
-        <div class="badge-level">SKILL BADGE · INTERMEDIATE</div>
-    </div>
+    Security · Skill Badge · Intermediate
 
-    <div class="card">
-        <div class="google-cloud-title">
-            <span class="g">G</span><span class="o1">o</span><span class="o2">o</span><span class="g2">g</span><span class="l">l</span><span class="e">e</span> <span class="cloud-text">Cloud</span>
-        </div>
-        <strong>Implement DevOps Workflows in Google Cloud</strong>
-        <div class="badge-category">Application Modernization</div>
-        <div class="badge-level">SKILL BADGE · INTERMEDIATE</div>
-    </div>
+-   __Google Cloud — Secure Software Delivery__
 
-    <div class="card">
-        <div class="google-cloud-title">
-            <span class="g">G</span><span class="o1">o</span><span class="o2">o</span><span class="g2">g</span><span class="l">l</span><span class="e">e</span> <span class="cloud-text">Cloud</span>
-        </div>
-        <strong>Manage Kubernetes in Google Cloud</strong>
-        <div class="badge-category">Hybrid & Multi-Cloud</div>
-        <div class="badge-level">SKILL BADGE · INTERMEDIATE</div>
-    </div>
+    Security · Skill Badge · Intermediate
 
-    <div class="card">
-        <div class="google-cloud-title">
-            <span class="g">G</span><span class="o1">o</span><span class="o2">o</span><span class="g2">g</span><span class="l">l</span><span class="e">e</span> <span class="cloud-text">Cloud</span>
-        </div>
-        <strong>Build Infrastructure with Terraform on Google Cloud</strong>
-        <div class="badge-category">Infrastructure Modernization</div>
-        <div class="badge-level">SKILL BADGE · INTERMEDIATE</div>
-    </div>
+-   __Google Cloud — Mitigate Threats and Vulnerabilities with Security Command Center__
 
+    Security · Skill Badge · Intermediate
+
+-   __Google Cloud — Implement DevOps Workflows in Google Cloud__
+
+    Application Modernization · Skill Badge · Intermediate
+
+-   __Google Cloud — Manage Kubernetes in Google Cloud__
+
+    Hybrid & Multi-Cloud · Skill Badge · Intermediate
+
+-   __Google Cloud — Build Infrastructure with Terraform on Google Cloud__
+
+    Infrastructure Modernization · Skill Badge · Intermediate
 
 </div>
