@@ -19,55 +19,55 @@ I've also recently created [kube-scan](https://kube-scan-io), a lightweight Kube
 ## Platforms
 <div class="grid cards" markdown>
 
-- :simple-kubernetes: __Kubernetes__
-- :material-google-cloud: __Google Cloud__
-- :simple-linux: __Linux__
-- :simple-docker: __Docker__
-- :material-microsoft-azure: __Azure__
-- :simple-apollographql: __Apollo__
+- :lucide-layers: __Kubernetes__
+- :lucide-cloud: __Google Cloud__
+- :lucide-cpu: __Linux__
+- :lucide-container: __Docker__
+- :lucide-server: __Azure__
+- :lucide-network: __Apollo__
 
 </div><br>
 
 ## Scripting / Development
 <div class="grid cards" markdown>
 
-- :simple-python: __Python__
-- :octicons-terminal-16: __Shell__
-- :material-database: __SQL__
-- :simple-html5: __HTML__
-- :simple-yaml: __YAML__
-- :simple-graphql: __GraphQL__
-- :simple-css: __CSS__
-- :simple-markdown: __Markdown__
+- :lucide-code: __Python__
+- :lucide-terminal: __Shell__
+- :lucide-database: __SQL__
+- :lucide-code-xml: __HTML__
+- :lucide-file-code: __YAML__
+- :lucide-braces: __GraphQL__
+- :lucide-layout: __CSS__
+- :lucide-file-text: __Markdown__
 
 </div><br>
 
 ## IaC / Automation / CI-CD
 <div class="grid cards" markdown>
 
-- :simple-argo: __Argo CD__
-- :simple-terraform: __Terraform__
-- :simple-githubactions: __GitHub Actions__
-- :simple-jenkins: __Jenkins__
+- :lucide-workflow: __Argo CD__
+- :lucide-hammer: __Terraform__
+- :lucide-git-pull-request: __GitHub Actions__
+- :lucide-wrench: __Jenkins__
 
 </div><br>
 
 ## Cybersecurity
 <div class="grid cards" markdown>
 
-- :material-shield-link-variant: __Cyber Kill Chain__
-- :octicons-infinity-16: __DevSecOps__
-- :octicons-alert-16: __Risk & Compliance__
-- :fontawesome-solid-bug-slash: __Vulnerability Management__
-- :material-account-lock: __Identity & Access Management__
-- :material-wall-fire: __Perimeter Protection__
-- :fontawesome-solid-shield-virus: __Incident Response__
+- :lucide-shield: __Cyber Kill Chain__
+- :lucide-infinity: __DevSecOps__
+- :lucide-alert-triangle: __Risk & Compliance__
+- :lucide-bug-off: __Vulnerability Management__
+- :lucide-lock-keyhole: __Identity & Access Management__
+- :lucide-globe-lock: __Perimeter Protection__
+- :lucide-shield-alert: __Incident Response__
 
 </div><br>
 
 ---
 <br>
-[Download my resume :material-download:](assets/aaron_braundmeier_resume.pdf){ .md-button }
+[Download my resume :lucide-download:](assets/aaron_braundmeier_resume.pdf){ .md-button }
 
 
 <br><br><br>
