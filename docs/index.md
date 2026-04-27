@@ -25,7 +25,7 @@ I've also recently created [kube-scan](https://kube-scan-io), a lightweight Kube
 - :simple-googlecloud: __Google Cloud__
 - :simple-linux: __Linux__
 - :simple-docker: __Docker__
-- :-simple-apollographql: __Apollo__
+- :simple-apollographql: __Apollo__
 
 </div><br>
 
