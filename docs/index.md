@@ -19,36 +19,37 @@ I've also recently created [kube-scan](https://kube-scan-io), a lightweight Kube
 ## Platforms
 <div class="grid cards" markdown>
 
-- :lucide-layers: __Kubernetes__
-- :lucide-cloud: __Google Cloud__
-- :lucide-cpu: __Linux__
-- :lucide-container: __Docker__
-- :lucide-server: __Azure__
-- :lucide-network: __Apollo__
+- :simple-kubernetes: __Kubernetes__
+- :material-aws: __AWS__
+- :material-microsoft-azure: __Azure__
+- :simple-googlecloud: __Google Cloud__
+- :simple-linux: __Linux__
+- :simple-docker: __Docker__
+- :-simple-apollographql: __Apollo__
 
 </div><br>
 
 ## Scripting / Development
 <div class="grid cards" markdown>
 
-- :lucide-code: __Python__
+- :simple-python: __Python__
 - :lucide-terminal: __Shell__
 - :lucide-database: __SQL__
-- :lucide-code-xml: __HTML__
-- :lucide-file-code: __YAML__
-- :lucide-braces: __GraphQL__
-- :lucide-layout: __CSS__
-- :lucide-file-text: __Markdown__
+- :simple-html5: __HTML__
+- :simple-yaml: __YAML__
+- :simple-graphql: __GraphQL__
+- :simple-css: __CSS__
+- :simple-markdown: __Markdown__
 
 </div><br>
 
 ## IaC / Automation / CI-CD
 <div class="grid cards" markdown>
 
-- :lucide-workflow: __Argo CD__
-- :lucide-hammer: __Terraform__
-- :lucide-git-pull-request: __GitHub Actions__
-- :lucide-wrench: __Jenkins__
+- :simple-argo: __Argo CD__
+- :simple-terraform: __Terraform__
+- :simple-githubactions: __GitHub Actions__
+- :simple-jenkins: __Jenkins__
 
 </div><br>
 
