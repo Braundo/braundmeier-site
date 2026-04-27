@@ -11,72 +11,61 @@ hide:
     <a href="https://www.credly.com/badges/63110596-678d-4691-847b-18756f024185/public_url" target="_blank">
     <img src="/images/ckad.png">
 </a>
-<span class="issuer">Issuer: The Linux Foundation</span>
+
 
 
     <a href="https://www.credly.com/badges/cc5e7ffa-b662-4de2-8e63-8f06e2098bc1/public_url" target="_blank">
     <img src="/images/cka.png">
 </a>
-<span class="issuer">Issuer: The Linux Foundation</span>
+
 
 
     <a href="https://www.credly.com/badges/59a4a303-bc31-41c6-bc9f-fbc2da719f39/public_url" target="_blank">
     <img src="/images/kcsa.png">
 </a>
-<span class="issuer">Issuer: The Linux Foundation</span>
+
 
 
     <a href="https://www.credly.com/badges/e21d80a7-b787-4731-b731-b8cff94f7815/public_url" target="_blank">
     <img src="/images/kcna.png">
 </a>
-<span class="issuer">Issuer: The Linux Foundation</span>
+
 
 
    <a href="https://www.credly.com/badges/9ed2a14b-4dc7-4ce2-9890-9ee07f2bdf7f/public_url" target="_blank">
     <img src="/images/capa.png" class="capa">
 </a>
-<span class="issuer">Issuer: The Linux Foundation</span>
+
 
 
    <a href="https://www.credly.com/badges/6ca18c54-d86b-4ac7-968f-e80cc0091377/public_url" target="_blank">
     <img src="/images/aws-cloud-practitioner.png" height="200">
 </a>
-<span class="issuer">Issuer: Amazon Web Services</span>
-
 
 
     <a href="https://www.credly.com/badges/a6511996-1f8b-4065-ae50-035be87f9e6c/public_url" target="_blank">
     <img src="/images/gcp-sec.png">
 </a>
-<span class="issuer">Issuer: Google Cloud</span>
-
 
 
     <a href="https://learn.microsoft.com/en-us/users/aaronbraundmeier-3242/credentials/2087fdfa004ca072" target="_blank">
     <img src="/images/az900.png">
 </a>
-<span class="issuer">Issuer: Microsoft Azure</span>
 
 
 
     <a href="https://www.sololearn.com/en/certificates/CC-XOER3PQR" target="_blank">
     <img src="/images/python-sololearn.png">
 </a>
-<span class="issuer">Issuer: Sololearn</span>
 
 
 
     <a href="https://www.apollographql.com/tutorials/certifications/b41c1f00-1708-47e2-b838-bc515c8751b8" target="_blank">
     <img src="/images/apollo.png">
 </a>
-<span class="issuer">Issuer: Apollo GraphQL</span>
 
 </div>
 <br><br><br>
-
----
-
-# Google Cloud Badges
 
 </center>
 
