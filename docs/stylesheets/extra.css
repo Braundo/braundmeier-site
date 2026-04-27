@@ -1,3 +1,20 @@
+/* Replace neon #00c753 with a modern muted green */
+[data-md-color-accent=green] {
+  --md-accent-fg-color: #22c55e;
+  --md-accent-fg-color--transparent: #22c55e1a;
+}
+
+/* Active tab underline — overrides var(--md-default-fg-color) from the theme */
+.md-tabs__item--active {
+  border-bottom-color: var(--md-accent-fg-color);
+}
+
+/* Inline icons (both Lucide stroke=currentColor and Simple fill=currentColor) */
+.twemoji {
+  color: var(--md-accent-fg-color);
+}
+
+/* Cert badge images — uniform size */
 .cert-badges img {
   width: 160px;
   height: 160px;
