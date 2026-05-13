@@ -12,7 +12,6 @@ extra_css = ["stylesheets/extra.css"]
 extra_javascript = ["javascripts/extra.js", "javascripts/adsense.js"]
 
 [project.theme]
-name = "zensical"
 custom_dir = "overrides"
 favicon = "images/favicon.svg"
 font.text = "Ubuntu"
