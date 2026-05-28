@@ -14,51 +14,58 @@ I've long been a Kubernetes fan and had the privilege of working hands-on in tha
 <br><br>
 
 # Skills
-## Platforms
-<div class="grid cards" markdown>
 
-- :simple-kubernetes: __Kubernetes__
-- :material-aws: __AWS__
-- :material-microsoft-azure: __Azure__
-- :simple-googlecloud: __Google Cloud__
-- :simple-linux: __Linux__
-- :simple-docker: __Docker__
+<div class="skills-section">
 
-</div><br>
+<div class="skill-row">
+<div class="skill-category-name">Platforms</div>
+<div class="skill-chips">
+<span class="chip">Kubernetes</span>
+<span class="chip">AWS</span>
+<span class="chip">Azure</span>
+<span class="chip">Google Cloud</span>
+<span class="chip">Docker</span>
+<span class="chip">Linux</span>
+<span class="chip">VMware Tanzu</span>
+</div>
+</div>
 
-## Scripting / Development
-<div class="grid cards" markdown>
+<div class="skill-row">
+<div class="skill-category-name">Development</div>
+<div class="skill-chips">
+<span class="chip">Python</span>
+<span class="chip">Shell / Bash</span>
+<span class="chip">Terraform</span>
+<span class="chip">Helm</span>
+<span class="chip">YAML</span>
+<span class="chip">GraphQL</span>
+<span class="chip">HTML / CSS</span>
+</div>
+</div>
 
-- :simple-python: __Python__
-- :lucide-terminal: __Shell__
-- :simple-html5: __HTML__
-- :simple-yaml: __YAML__
-- :simple-graphql: __GraphQL__
-- :simple-css: __CSS__
+<div class="skill-row">
+<div class="skill-category-name">IaC & CI/CD</div>
+<div class="skill-chips">
+<span class="chip">Argo CD</span>
+<span class="chip">GitHub Actions</span>
+<span class="chip">Jenkins</span>
+<span class="chip">GitOps</span>
+</div>
+</div>
 
-</div><br>
+<div class="skill-row">
+<div class="skill-category-name">Security</div>
+<div class="skill-chips">
+<span class="chip">DevSecOps</span>
+<span class="chip">Risk & Compliance</span>
+<span class="chip">Vulnerability Management</span>
+<span class="chip">Identity & Access Management</span>
+<span class="chip">Perimeter Protection</span>
+<span class="chip">Incident Response</span>
+</div>
+</div>
 
-## IaC / Automation / CI-CD
-<div class="grid cards" markdown>
-
-- :simple-argo: __Argo CD__
-- :simple-terraform: __Terraform__
-- :simple-githubactions: __GitHub Actions__
-- :simple-jenkins: __Jenkins__
-
-</div><br>
-
-## Cybersecurity
-<div class="grid cards" markdown>
-
-- :lucide-infinity: __DevSecOps__
-- :lucide-alert-triangle: __Risk & Compliance__
-- :lucide-bug-off: __Vulnerability Management__
-- :lucide-lock-keyhole: __Identity & Access Management__
-- :lucide-globe-lock: __Perimeter Protection__
-- :lucide-shield-alert: __Incident Response__
-
-</div><br>
+</div>
 
 ---
 <br>

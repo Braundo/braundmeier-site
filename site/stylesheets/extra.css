@@ -18,6 +18,75 @@
   color: var(--md-accent-fg-color);
 }
 
+/* ── Skills ─────────────────────────────────────────────── */
+.skills-section {
+  margin: 1.5rem 0 2.5rem;
+}
+
+.skill-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.skill-row:last-child {
+  border-bottom: none;
+}
+
+.skill-category-name {
+  flex: 0 0 120px;
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--md-accent-fg-color);
+  padding-top: 0.35rem;
+  line-height: 1.4;
+}
+
+.skill-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  flex: 1;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.3rem 0.85rem;
+  border-radius: 9999px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  background: var(--md-code-bg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  color: var(--md-default-fg-color);
+  transition: border-color 0.18s ease, color 0.18s ease, transform 0.18s ease;
+  cursor: default;
+  white-space: nowrap;
+  line-height: 1;
+}
+
+.chip:hover {
+  border-color: var(--md-accent-fg-color);
+  color: var(--md-accent-fg-color);
+  transform: translateY(-1px);
+}
+
+@media (max-width: 600px) {
+  .skill-row {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .skill-category-name {
+    flex: none;
+    padding-top: 0;
+  }
+}
+
 /* Cert badge images — uniform size */
 .cert-badges img {
   width: 160px;
